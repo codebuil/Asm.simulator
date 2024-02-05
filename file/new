@@ -12,4 +12,5 @@ ret
 
 
 
-hello db "hello world..."
+hello db "hello world...",0
+
